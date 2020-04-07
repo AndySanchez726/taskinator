@@ -53,7 +53,6 @@ form input {
   border: 2px solid var(--grey);
   border-radius: 12px;
 }
-
 form .form-group {
   margin: 10px 6px 10px 0;
   flex: 1;
